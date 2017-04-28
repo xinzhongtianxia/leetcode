@@ -1,5 +1,9 @@
 package com.tianxia.leetcode;
 
+/**
+ * @author xinzhongtianxia 2017/04/28
+ */
+
 public class StringToIntegerAtoi {
 	public int myAtoi(String str) {
 		if (str == null) {
